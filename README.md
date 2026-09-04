@@ -152,7 +152,3 @@ Contributions, issues, and feature requests are welcome. Feel free to fork the r
 
 No license has been specified for this project yet. Consider adding one (e.g. MIT) if you plan to share or accept contributions.
 
-## 👤 Author
-
-**Aadesh Vishwakarma**
-GitHub: [@aadeshvish15](https://github.com/aadeshvish15)
